@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Huraira-pc\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Huraira-pc\\.nuget\\packages"
+    ]
+  }
+}
